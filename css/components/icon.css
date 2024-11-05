@@ -1,0 +1,10 @@
+.icons {
+  display: flex;
+  justify-content: space-evenly;
+  width: 23%;
+  font-size: 30px;
+}
+
+.icons > a {
+  color: aquamarine;
+}
