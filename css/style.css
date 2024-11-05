@@ -44,3 +44,21 @@ footer{
 p {
   opacity: 0.7;
 }
+
+@media (max-width: 960px) {
+  .cards {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 720px) {
+  .cards {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 540px) {
+  .cards {
+    flex-wrap: wrap;
+  }
+}
